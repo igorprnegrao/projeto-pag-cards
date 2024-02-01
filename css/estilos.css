@@ -61,11 +61,13 @@ h1 {
     padding: 16px;
     margin-left: 0;
     font-size: 18px;
-    padding-left: 5px;
+    padding-left: 10px;
+    flex-basis: 250px;
+    flex-grow: 1;
 }
 
 .sec__grupo--cards img {
-
-    
+    width: 100%;
+    display: block;
 }
 
